@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mehmet Zahit</h1>
 <h3 align="center">Computer Engineering Student, Work on Machine Learning</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetzahitangi" alt="mehmetzahitangi" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetzahitangi" alt="mehmetzahitangi" /> </p> -->
 
 - 📫 How to reach me **mehmetzahitangi@gmail.com**
 
